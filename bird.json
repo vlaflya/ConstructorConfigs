@@ -1,21 +1,21 @@
 [
     {
-        "availablecolors": "red,yellow,green,blue",
+        "availablecolors": "red,blue",
         "levelnum": 1,
-        "fireflycolors": "red,yellow,green,blue",
+        "fireflycolors": "red,red,red,red,blue,blue,blue,blue",
         "slotcount": 4
     },
     {
-        "slot": "1,0,red,0,19,25"
+        "slot": "1,1,violet,0,19,25"
     },
     {
-        "slot": "2,0,blue,0,56,10"
+        "slot": "2,1,violet,0,56,10"
     },
     {
-        "slot": "3,0,green,0,62,81"
+        "slot": "3,1,violet,0,62,81"
     },
     {
-        "slot": "4,0,yellow,0,94,98"
+        "slot": "4,1,violet,0,94,98"
     },
     {
         "line": "2,32,21,14,1"
