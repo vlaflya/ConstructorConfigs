@@ -1,3 +1,122 @@
-{
-    "levels": "1_bat_3,2_ship_4,3_fox_5,4_diamond_6,5_fish_6,6_butterfly_5,7_fox_6,8_wolf_7,9_cat_8,10_heart_7,11_vz_5,12_cat_7,13_wolf_8,14_owl_9,15_horse_8,16_bird_4,17_swan 8,18_bear_9,19_lion_10,20_owl_9,21_diamond_6,22_cat_8,23_owl_9,24_lion_10"
-}
+[
+    {
+        "name": "1_bat_3",
+        "startVoice": "load/tutorial/06",
+        "endVoice" : "praise/tutorial/05"
+    },
+    {
+        "name": "2_ship_4",
+        "startVoice": "load/tutorial/07",
+        "endVoice" : "praise/normal/02_01"
+    },
+    {
+        "name": "3_fox_5",
+        "startVoice": "load/tutorial/08",
+        "endVoice" : "praise/normal/03_01"
+    },
+    {
+        "name": "4_diamond_6",
+        "startVoice": "load/normal/01",
+        "endVoice" : "praise/normal/07_01"
+    },
+    {
+        "name": "5_fish_6",
+        "startVoice": "load/tutorial/09",
+        "endVoice" : "praise/normal/04_01"
+    },
+    {
+        "name": "6_butterfly_5",
+        "startVoice": "load/tutorial/11",
+        "endVoice" : "praise/normal/08_01"
+    },
+    {
+        "name": "7_fox_6",
+        "startVoice": "load/normal/02",
+        "endVoice" : "praise/normal/10_01"
+    },
+    {
+        "name": "8_wolf_7",
+        "startVoice": "load/normal/03",
+        "endVoice" : "praise/normal/11_01"
+    },
+    {
+        "name": "9_cat_8",
+        "startVoice": "load/normal/01",
+        "endVoice" : "praise/normal/12_01"
+    },
+    {
+        "name": "10_heart_7",
+        "startVoice": "load/tutorial/10",
+        "endVoice" : "praise/normal/05_01"
+    },
+    {
+        "name": "11_vz_5",
+        "startVoice": "load/tutorial/12",
+        "endVoice" : "praise/normal/02_01"
+    },
+    {
+        "name": "12_cat_7",
+        "startVoice": "load/normal/02",
+        "endVoice" : "praise/normal/03_01"
+    },
+    {
+        "name": "13_wolf_8",
+        "startVoice": "load/normal/03",
+        "endVoice" : "praise/normal/07_01"
+    },
+    {
+        "name": "14_owl_9",
+        "startVoice": "load/normal/01",
+        "endVoice" : "praise/normal/08_01"
+    },
+    {
+        "name": "15_horse_8",
+        "startVoice": "load/normal/04",
+        "endVoice" : "praise/normal/13_01"
+    },
+    {
+        "name": "16_bird_4",
+        "startVoice": "load/tutorial/13",
+        "endVoice" : "praise/normal/10_01"
+    },
+    {
+        "name": "17_swan 8",
+        "startVoice": "load/normal/02",
+        "endVoice" : "praise/normal/11_01"
+    },
+    {
+        "name": "18_bear_9",
+        "startVoice": "load/normal/03",
+        "endVoice" : "praise/normal/12_01"
+    },
+    {
+        "name": "19_lion_10",
+        "startVoice": "load/normal/01",
+        "endVoice" : "praise/normal/02_01"
+    },
+    {
+        "name": "20_owl_9",
+        "startVoice": "load/normal/04",
+        "endVoice" : "praise/normal/04_01"
+    },
+    {
+        "name": "21_diamond_6",
+        "startVoice": "load/normal/01",
+        "endVoice" : "praise/normal/05_01"
+    },
+    {
+        "name": "22_cat_8",
+        "startVoice": "load/normal/02",
+        "endVoice" : "praise/normal/13_01"
+    },
+    {
+        "name": "23_owl_9",
+        "startVoice": "load/normal/04",
+        "endVoice" : "praise/normal/04_01"
+    },	
+    {
+        "name": "24_lion_10",
+        "startVoice": "load/normal/03",
+        "endVoice" : "praise/normal/05_01"
+    }
+]
