@@ -22,7 +22,7 @@
     {
         "name": "5_fish_6",
         "startVoice": "load/tutorial/09",
-        "endVoice" : "praise/normal/04_01"
+        "endVoice" : "praise/normal/04_02"
     },
     {
         "name": "6_butterfly_5",
@@ -97,7 +97,7 @@
     {
         "name": "20_owl_9",
         "startVoice": "load/normal/04",
-        "endVoice" : "praise/normal/04_01"
+        "endVoice" : "praise/normal/04_02"
     },
     {
         "name": "21_diamond_6",
@@ -112,7 +112,7 @@
     {
         "name": "23_owl_9",
         "startVoice": "load/normal/04",
-        "endVoice" : "praise/normal/04_01"
+        "endVoice" : "praise/normal/04_02"
     },	
     {
         "name": "24_lion_10",
