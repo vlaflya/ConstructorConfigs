@@ -1,8 +1,8 @@
 [
     {
-        "name": "11_vz_5",
-        "startVoice": "load/tutorial/12",
-        "endVoice" : "praise/normal/02_01"
+        "name": "14_owl_9",
+        "startVoice": "load/normal/01",
+        "endVoice" : "praise/normal/08_01"
     },
     {
         "name": "1_bat_3",
