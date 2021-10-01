@@ -1,5 +1,10 @@
 [
     {
+        "name": "11_vz_5",
+        "startVoice": "load/tutorial/12",
+        "endVoice" : "praise/normal/02_01"
+    },
+    {
         "name": "1_bat_3",
         "startVoice": "load/tutorial/06",
         "endVoice" : "praise/tutorial/05"
