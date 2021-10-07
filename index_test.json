@@ -1,10 +1,5 @@
 [
     {
-        "name": "11_vz_5",
-        "startVoice": "load/tutorial/constr_tutor_06",
-        "endVoice" : "praise/normal/common_final_01_01|praise/normal/common_final_01_02|praise/normal/common_final_01_03|praise/normal/common_final_02_01|praise/normal/common_final_02_02|praise/normal/common_final_02_03|praise/normal/common_final_03_01|praise/normal/common_final_03_02|praise/normal/common_final_03_03|praise/normal/common_final_07_01|praise/normal/common_final_07_02|praise/normal/common_final_07_03"
-    },
-    {
         "name": "1_bat_3",
         "startVoice": "load/tutorial/constr_tutor_01",
         "endVoice" : "praise/tutorial/constr_final_01"
