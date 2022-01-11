@@ -1,13 +1,13 @@
 [
     {
-        "name": "1_bat_3",
-        "startVoice": "load/tutorial/constr_tutor_01",
-        "endVoice" : "praise/tutorial/constr_final_01"
-    },
-    {
         "name": "2_ship_4",
         "startVoice": "load/tutorial/constr_tutor_02",
         "endVoice" : "praise/normal/constr_final_02"
+    },
+    {
+        "name": "1_bat_3",
+        "startVoice": "load/tutorial/constr_tutor_01",
+        "endVoice" : "praise/tutorial/constr_final_01"
     },
     {
         "name": "3_fox_5",
