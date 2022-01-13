@@ -1,4 +1,9 @@
 [
+     {
+        "name": "gitara",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
     {
         "name": "brilliant",
         "startVoice": "load/tutorial/constr_tutor_02",
@@ -23,11 +28,6 @@
         "name": "crystall5",
         "startVoice": "load/tutorial/constr_tutor_03",
         "endVoice" : "praise/normal/common_finalC_04_01|praise/normal/common_finalC_04_02|praise/normal/common_finalC_04_03|praise/normal/common_finalC_05_01|praise/normal/common_finalC_05_02|praise/normal/common_finalC_05_03|praise/normal/common_finalC_13_01|praise/normal/common_finalC_13_02|praise/normal/common_finalC_13_03"
-    },
-    {
-        "name": "gitara",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
     },
     {
         "name": "heart2",
