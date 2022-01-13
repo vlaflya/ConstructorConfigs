@@ -4,6 +4,11 @@
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
+      {
+        "name": "rose",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
     {
         "name": "brilliant",
         "startVoice": "load/tutorial/constr_tutor_02",
