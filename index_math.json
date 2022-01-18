@@ -1,4 +1,10 @@
 [
+  
+           {
+        "name": "rozochka",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
              {
         "name": "camel",
         "startVoice": "load/tutorial/constr_tutor_05",
@@ -17,11 +23,6 @@
     },
            {
         "name": "heart",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-           {
-        "name": "rozochka",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
