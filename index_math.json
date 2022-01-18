@@ -1,4 +1,9 @@
 [
+             {
+        "name": "camel",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
                {
         "name": "leaf",
         "startVoice": "load/tutorial/constr_tutor_05",
@@ -7,11 +12,6 @@
            
            {
         "name": "flower1",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-           {
-        "name": "camel",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
