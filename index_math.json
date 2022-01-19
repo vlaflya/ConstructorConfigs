@@ -1,4 +1,9 @@
-[ 
+[
+           {
+        "name": "fish",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
          {
         "name": "corgi",
         "startVoice": "load/tutorial/constr_tutor_05",
@@ -6,11 +11,6 @@
     },
        {
         "name": "turtle",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-       {
-        "name": "fish",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
