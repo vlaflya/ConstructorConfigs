@@ -1,4 +1,9 @@
 [
+             {
+        "name": "camomile",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    }
                {
         "name": "star",
         "startVoice": "load/tutorial/constr_tutor_05",
