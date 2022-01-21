@@ -1,4 +1,9 @@
 [
+                     {
+        "name": "crystalls",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
           {
         "name": "maple",
         "startVoice": "load/tutorial/constr_tutor_05",
@@ -61,11 +66,6 @@
     },
            {
         "name": "heart",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-                  {
-        "name": "crystalls",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
