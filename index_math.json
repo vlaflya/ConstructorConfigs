@@ -1,4 +1,9 @@
 [
+          {
+        "name": "maple",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
          {
         "name": "snowflake2",
         "startVoice": "load/tutorial/constr_tutor_05",
@@ -6,11 +11,6 @@
     },
         {
         "name": "rabbit2",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-       {
-        "name": "tree",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
