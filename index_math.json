@@ -1,4 +1,9 @@
 [
+    {
+        "name": "cat",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
              {
         "name": "lion",
         "startVoice": "load/tutorial/constr_tutor_05",
@@ -6,11 +11,6 @@
     },
           {
         "name": "star2",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-         {
-        "name": "cat",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
