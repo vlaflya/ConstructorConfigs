@@ -1,6 +1,6 @@
 [
       {
-        "name": "zebra",
+        "name": "horse",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
