@@ -1,4 +1,24 @@
 [
+         {
+        "name": "star2",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
+                 {
+        "name": "star",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
+         {
+        "name": "zvezdochka2",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
+       {
+        "name": "snezhinka4",
+        "startVoice": "load/tutorial/constr_tutor_05",
+        "endVoice" : "praise/normal/constr_final_03"
+    },
        {
         "name": "giraffe",
         "startVoice": "load/tutorial/constr_tutor_05",
@@ -16,11 +36,6 @@
     },
             {
         "name": "butterfly",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-         {
-        "name": "star2",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
@@ -69,11 +84,6 @@
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
-               {
-        "name": "star",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
            {
         "name": "fish",
         "startVoice": "load/tutorial/constr_tutor_05",
@@ -110,17 +120,7 @@
         "endVoice" : "praise/normal/constr_final_03"
     },
          {
-        "name": "zvezdochka2",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-         {
         "name": "rabbit",
-        "startVoice": "load/tutorial/constr_tutor_05",
-        "endVoice" : "praise/normal/constr_final_03"
-    },
-      {
-        "name": "snezhinka4",
         "startVoice": "load/tutorial/constr_tutor_05",
         "endVoice" : "praise/normal/constr_final_03"
     },
